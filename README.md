@@ -12,6 +12,7 @@ this is part of challenges help you improve your interview coding skills by buil
 ## Technologies Used
 - ReactJS
 - styled components
+- Testing (Jest)
 
 ## Screenshots
 | ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |  ![](./screenshots/active.png) |![](./screenshots/submited.png) |
