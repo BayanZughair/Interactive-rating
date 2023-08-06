@@ -15,8 +15,7 @@ This is an interaction rating component built with ReactJS and styled components
 
 ## Screenshots
 | ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) | 
-
-| ------------------------------ | ----------------------------- |  | ------------------------------ |
+| ------------------------------ | ----------------------------- | ------------------------------ |
 | Desktop version                | Mobile version                |    Active state
 
 ## Getting Started
