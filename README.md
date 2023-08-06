@@ -14,9 +14,9 @@ This is an interaction rating component built with ReactJS and styled components
 - styled components
 
 ## Screenshots
-| ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |    ![image](https://github.com/BayanZughair/Interactive-rating/assets/106951236/045f8038-1e0c-4938-8f65-14c9fa936fd8)
+| ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) | 
 
-| ------------------------------ | ----------------------------- |  | ------------------------------ | ----------------------------- |
+| ------------------------------ | ----------------------------- |  | ------------------------------ |
 | Desktop version                | Mobile version                |    Active state
 
 ## Getting Started
