@@ -14,9 +14,9 @@ This is an interaction rating component built with ReactJS and styled components
 - styled components
 
 ## Screenshots
-| ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |
-| ------------------------------ | ----------------------------- |
-| Desktop version                | Mobile version                |
+| ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |  ![](./screenshots/active.png) |![](./screenshots/submited.png) |
+| ------------------------------ | ----------------------------- | | ------------------------------ | ----------------------------- | 
+| Desktop version                | Mobile version                |  active status                   | submited status 
 
 ## Getting Started
 1. Clone or download the repository
