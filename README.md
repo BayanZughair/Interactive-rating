@@ -2,7 +2,7 @@
 
 This is an interaction rating component built with ReactJS and styled components. It allows users to rate their experience on a scale of 1-5 stars.
 
-
+this is part of challenges help you improve your interview coding skills by building realistic projects.
 ## Features
 - Responsive design
 - Animated hover effects on the rating icons
