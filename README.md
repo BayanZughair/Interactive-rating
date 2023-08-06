@@ -1,6 +1,6 @@
 # Interaction Rating Component
 
-This is a simple interaction rating component built with ReactJS and CSS. It allows users to rate their experience on a scale of 1-5 stars.
+This is an interaction rating component built with ReactJS and styled components. It allows users to rate their experience on a scale of 1-5 stars.
 
 
 ## Features
@@ -11,7 +11,7 @@ This is a simple interaction rating component built with ReactJS and CSS. It all
 
 ## Technologies Used
 - ReactJS
-- STYLED COMPONENTS
+- styled components
 
 ## Screenshots
 | ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |

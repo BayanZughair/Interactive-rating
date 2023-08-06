@@ -7,7 +7,7 @@ import {
 
 const Rating = ({ changeStateSubmited, changeItem }) => {
   return (
-    <Wrapper>
+    <Wrapper data-testid="rating-component">
       <Image src={starImg} alt="star" />
       <Title>How did we do?</Title>
       <Text>
